@@ -1,0 +1,10 @@
+Abilities:
+  EarthKick:
+    Cooldown: 4000
+    Damage: 1
+    MaxBlocks: 7
+    LavaMultiplier: 1.5
+  MetalRepair:
+    Cooldown: 1000
+    RepairAmount: 25
+    RepairInterval: 1250

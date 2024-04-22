@@ -1,0 +1,23 @@
+Title:
+  Previous: '&l&7[← Previous]'
+  X:
+    Name: '                &c&l[ &4&lClose&r&c&l ]'
+    Description: '&c&lClose this window'
+Menu:
+  AbilityHover: '&7%ability_description%'
+  AbilityInfo: '&7[ %element_primary%i&7 ]'
+  AbilityBind: '&7[ %element_primary%+&7 ]'
+  AbilityBindHover: '&7Click to bind this ability.'
+  AlreadyBound: '%element_primary%[%element_secondary%%slot%%element_primary%]'
+  AlreadyBoundHover: '&7This ability is already binded on slot %slot%'
+  AbilityInfoHover: '&7Usage:||&7%ability_usage%'
+  ElementClick: '&7Click to view all available abilities for this element.'
+  LineColor: '&7'
+  InfoMenu: ' %element_secondary%~ %element_primary%%ability_name% %element_secondary%~
+    || ||%element_primary%Description:||&7%ability_desc%|| ||%element_secondary%Usage:||&7%ability_usage%||
+    ||%element_primary%Author: &7%ability_author%||%element_secondary%Version: &7%ability_version%'
+  InfoMenuBind: '%element_secondary%[ %element_primary%Bind %element_secondary%]'
+Success: '&aSuccess&r&2'
+Failed: '&cFailed executing this command!&r&7'
+FailedCause: '&cFailed executing this command! &r&7Cause: %cause%&r'
+Error: '&c&lAn error has occurred!&r&7'
